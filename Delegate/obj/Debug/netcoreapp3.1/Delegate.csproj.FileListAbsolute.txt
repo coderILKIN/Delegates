@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+C:\Users\ilkin\source\repos\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+C:\Users\ilkin\source\repos\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+C:\Users\ilkin\source\repos\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+C:\Users\ilkin\source\repos\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+C:\Users\ilkin\source\repos\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+C:\Users\ilkin\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+C:\Users\ilkin\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+C:\Users\ilkin\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache
